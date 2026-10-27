@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Enum
+﻿namespace Enum
 {
     class Program
     {

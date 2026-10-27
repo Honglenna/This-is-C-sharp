@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace For
+﻿namespace For
 {
     class Program
     {

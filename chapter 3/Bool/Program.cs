@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Bool
+﻿namespace Bool
 {
     class Program
     {

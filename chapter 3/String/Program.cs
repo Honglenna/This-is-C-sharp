@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace String
+﻿namespace String
 {
     class Program
     {

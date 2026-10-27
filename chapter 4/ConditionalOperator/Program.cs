@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace ConditionalOperator
+﻿namespace ConditionalOperator
 {
     class Program
     {

@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace FloatConversion
+﻿namespace FloatConversion
 {
     class Program
     {

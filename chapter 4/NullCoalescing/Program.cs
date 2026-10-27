@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace NullCoalescing
+﻿namespace NullCoalescing
 {
     class Program
     {

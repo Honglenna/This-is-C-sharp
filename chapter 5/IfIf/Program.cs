@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace IfIf
+﻿namespace IfIf
 {
     class Program
     {

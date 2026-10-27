@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace While
+﻿namespace While
 {
     class Program
     {

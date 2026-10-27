@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Return
+﻿namespace Return
 {
     class Program
     {

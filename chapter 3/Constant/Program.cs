@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Constant
+﻿namespace Constant
 {
     class Program
     {

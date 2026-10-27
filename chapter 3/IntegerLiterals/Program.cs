@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace IntegerLiterals
+﻿namespace IntegerLiterals
 {
     class Program
     {

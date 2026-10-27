@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace LocalFunction
+﻿namespace LocalFunction
 {
     class Program
     {

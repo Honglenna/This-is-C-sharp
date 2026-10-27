@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace IfElse
+﻿namespace IfElse
 {
     class Program
     {

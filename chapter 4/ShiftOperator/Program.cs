@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace ShiftOperator
+﻿namespace ShiftOperator
 {
     class Program
     {

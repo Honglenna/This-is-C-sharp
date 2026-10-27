@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace LogicalOperator
+﻿namespace LogicalOperator
 {
     class Program
     {

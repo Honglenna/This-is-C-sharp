@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace InfiniteWhile
+﻿namespace InfiniteWhile
 {
     class Program
     {

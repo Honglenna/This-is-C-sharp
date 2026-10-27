@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace AssignmentOperator
+﻿namespace AssignmentOperator
 {
     class Program
     {

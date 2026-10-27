@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace IntegerTypes
+﻿namespace IntegerTypes
 {
     class Program
     {

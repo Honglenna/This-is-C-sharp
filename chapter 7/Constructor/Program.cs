@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Constructor
+﻿namespace Constructor
 {
     class Cat
     {

@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace NamedParameter
+﻿namespace NamedParameter
 {
     class Program
     {

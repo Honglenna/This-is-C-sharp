@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace DoWhile
+﻿namespace DoWhile
 {
     class Program
     {

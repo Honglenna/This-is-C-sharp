@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace FloatToIntegral
+﻿namespace FloatToIntegral
 {
     class Program
     {

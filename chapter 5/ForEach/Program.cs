@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace ForEach
+﻿namespace ForEach
 {
     class Program
     {

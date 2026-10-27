@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace ArithmaticOperators
+﻿namespace ArithmaticOperators
 {
     class Program
     {

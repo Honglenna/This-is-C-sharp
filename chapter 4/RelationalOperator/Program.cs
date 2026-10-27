@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace RelationalOperator
+﻿namespace RelationalOperator
 {
     class Program
     {

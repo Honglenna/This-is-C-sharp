@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace FloatingPoint
+﻿namespace FloatingPoint
 {
     class Program
     {

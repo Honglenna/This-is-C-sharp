@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace StringNumberConversion
+﻿namespace StringNumberConversion
 {
     class Program
     {

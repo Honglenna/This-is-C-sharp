@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Char
+﻿namespace Char
 {
     class Program
     {

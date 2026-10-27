@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Switch2
+﻿namespace Switch2
 {
     class Program
     {

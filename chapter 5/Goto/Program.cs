@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Goto
+﻿namespace Goto
 {
     class Program
     {

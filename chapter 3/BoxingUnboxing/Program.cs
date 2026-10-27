@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace BoxingUnboxing
+﻿namespace BoxingUnboxing
 {
     class Program
     {

@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace CTS
+﻿namespace CTS
 {
     class Program
     {

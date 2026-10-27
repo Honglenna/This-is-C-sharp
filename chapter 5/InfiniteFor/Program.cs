@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace InfiniteFor
+﻿namespace InfiniteFor
 {
     class Program
     {

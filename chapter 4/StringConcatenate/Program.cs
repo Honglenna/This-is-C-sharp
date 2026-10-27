@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace StringConcatenate
+﻿namespace StringConcatenate
 {
     class Program
     {

@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Object
+﻿namespace Object
 {
     class Program
     {

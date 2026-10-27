@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Overloading
+﻿namespace Overloading
 {
     class Program
     {

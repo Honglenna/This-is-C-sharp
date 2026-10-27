@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace RefReturn
+﻿namespace RefReturn
 {
     class Product
     {

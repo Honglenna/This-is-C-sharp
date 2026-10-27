@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace BitwiseOperator
+﻿namespace BitwiseOperator
 {
     class Program
     {

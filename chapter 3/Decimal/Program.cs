@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Decimal
+﻿namespace Decimal
 {
     class Program
     {

@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Method
+﻿namespace Method
 {
     class Calculator
     {

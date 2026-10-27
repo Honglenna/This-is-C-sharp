@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Continue
+﻿namespace Continue
 {
     class Program
     {

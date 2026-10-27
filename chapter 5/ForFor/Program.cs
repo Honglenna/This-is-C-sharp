@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace ForFor
+﻿namespace ForFor
 {
     class Program
     {

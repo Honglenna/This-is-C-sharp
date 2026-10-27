@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace UsingVar
+﻿namespace UsingVar
 {
     class Program
     {

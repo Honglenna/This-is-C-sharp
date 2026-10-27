@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace OptionalParameter
+﻿namespace OptionalParameter
 {
     class Program
     {

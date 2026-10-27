@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Overflow
+﻿namespace Overflow
 {
     class Program
     {

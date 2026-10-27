@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace SignedUnsignedConversion
+﻿namespace SignedUnsignedConversion
 {
     class Program
     {

@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace IntegralConversion
+﻿namespace IntegralConversion
 {
     class Program
     {

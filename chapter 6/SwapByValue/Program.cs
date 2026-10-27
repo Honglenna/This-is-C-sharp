@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace SwapByValue
+﻿namespace SwapByValue
 {
     class Program
     {

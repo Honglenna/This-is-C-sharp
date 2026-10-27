@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace UsingOut
+﻿namespace UsingOut
 {
     class Program
     {

@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace SignedUnsigned
+﻿namespace SignedUnsigned
 {
     class Program
     {
